@@ -1,0 +1,17 @@
+Node installation follows below steps
+
+
+Windows:
+========
+can install a pre-built version of node.js via the downloads page using a .exe or a .msi.
+
+
+Linux:
+=====
+can install a pre-built version of node.js via the downloads page available in a .tar.gz. Or you can use the 
+automatic bash Installer.
+
+Link for both Windows and Linux
+
+https://nodejs.org/download/
+
