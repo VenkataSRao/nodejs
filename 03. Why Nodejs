@@ -2,3 +2,14 @@ As Wikipedia states: “Node.js is a packaged compilation of Google’s V8 JavaS
 layer, and a core library, which is itself primarily written in JavaScript.” Beyond that, it’s worth noting that 
 Ryan Dahl, the creator of Node.js, was aiming to create real-time websites with push capability, “inspired by applications
 like Gmail”. In Node.js, he gave developers a tool for working in the non-blocking, event-driven I/O paradigm.
+
+After over 20 years of stateless-web based on the stateless request-response paradigm, we finally have web applications 
+with real-time, two-way connections.
+
+In one sentence: Node.js shines in real-time web applications employing push technology over websockets. 
+
+How Node works:
+===================
+
+The main idea of Node.js: use non-blocking, event-driven I/O to remain lightweight and efficient in the face of 
+data-intensive real-time applications that run across distributed devices.
